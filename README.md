@@ -135,5 +135,4 @@
           mydata: rbdata我是元数据
         instanceId: ${spring.application.name}:${server.port}  # 微服务虚拟地址
 
-
 12、项目命名规范
